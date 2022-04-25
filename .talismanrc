@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: src/main/resources/static/index.html
+  checksum: ddd19881867ba70f3460f2f88da803c21c6b01fb8b1cad660b69a8ed5356dfdd
+- filename: src/main/resources/static/javascript/login.js
+  checksum: 9bf9105126d1ec7f386e6bb45f6f3e178c5fefe9ea2b434015d0cdf5d62491b6
+- filename: src/main/resources/static/javascript/signup.js
+  checksum: 7e2106ae044c5a23acf0565e93d9bfcb16592155dcbe1840d66f3a8dad557d56
+- filename: src/main/resources/static/signup.html
+  checksum: aabed6a447633be12c1085bbb122065668f1a8f27aa6c98b2510203f2826aaa7

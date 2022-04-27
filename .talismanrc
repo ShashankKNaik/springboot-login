@@ -7,3 +7,5 @@ fileignoreconfig:
   checksum: 7e2106ae044c5a23acf0565e93d9bfcb16592155dcbe1840d66f3a8dad557d56
 - filename: src/main/resources/static/signup.html
   checksum: aabed6a447633be12c1085bbb122065668f1a8f27aa6c98b2510203f2826aaa7
+- filename: src/main/resources/import.sql
+  checksum: ba83cf7f87a5d035de613259de94f26057d9bd96b6ef8f3dda0505f3cdc9457a

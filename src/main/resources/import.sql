@@ -1,0 +1,1 @@
+insert into `USER` values ('shashank','shashank1'),('shashi','shashi1');
